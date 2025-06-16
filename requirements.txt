@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+tavily-python
+langchain-tavily
+weave
+fastapi
+uvicorn
+langgraph
+langchain-openai
+langmem
